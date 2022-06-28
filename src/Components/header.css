@@ -1,6 +1,35 @@
 
-.logo_div{
+.logo_div {
         padding-top: 20px;
         padding-bottom: 20px;
         display: flex;
+       
 }
+.nav-div{
+       
+       margin-top: 16px;
+       border: 1px solid #80808038;
+       border-radius: 50px;
+       padding-top:10px;
+       justify-content: center;
+       align-items: center;
+     
+}
+.nav-class{
+       justify-content: center;
+       align-items: center;
+}
+.nav-list-custom{
+     padding: 0;
+}
+.nav-item{
+display: inline-block;
+       padding-left: 5%;
+       padding-right: 5%;
+ }
+ .nav-tag{
+        text-decoration: none;
+        color: black;
+        font-size: 15px;
+       font-weight: 500;
+ }
