@@ -2,7 +2,6 @@ import { Button } from 'bootstrap'
 import React from 'react'
 import logo from '../images/logo.png'
 import './header.css'
-import img from '../images/img.svg'
 const Header = () => {
   return (
     <>
